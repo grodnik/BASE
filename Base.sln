@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASE.DataAccess.SQL", "BASE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASE.DataAccess.InMemory", "BSAE.DataAccess.InMemory\BASE.DataAccess.InMemory.csproj", "{7C54388B-40B8-4F42-B565-FCE539F3AB33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{5072A918-D561-4689-8070-8DC9493BFB08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASE.WebUI", "WebUI\BASE.WebUI.csproj", "{5072A918-D561-4689-8070-8DC9493BFB08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI.Tests", "WebUI.Tests\WebUI.Tests.csproj", "{6789D586-CD18-48FD-8084-728E2F0FE351}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASE.WebUI.Tests", "WebUI.Tests\BASE.WebUI.Tests.csproj", "{6789D586-CD18-48FD-8084-728E2F0FE351}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
